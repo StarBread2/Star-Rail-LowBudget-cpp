@@ -1,0 +1,50 @@
+{
+  "initialActionGauge": 10000,
+  "skillPoints": 3,
+
+  "characters": [
+    {
+      "name": "Furina",
+      "speed": 100,
+      "health": 163,        
+      "attack": 84,
+      "player": true,
+      "errate": 0.194,
+      "energyInside": 0,
+      "critRate": 50,
+      "critDamage": 0.50,
+      "isDead": false,
+      "isEnemy1": 2,
+      "whatCharacter": 0
+    },
+    {
+      "name": "Maxwell Cat",
+      "speed": 83,
+      "health": 1000,        
+      "attack": 12,
+      "player": false,
+      "errate": 0,
+      "energyInside": 0,
+      "critRate": 50,
+      "critDamage": 0.25,
+      "isDead": false,
+      "isEnemy1": 1,
+      "whatCharacter": 1
+    },
+    {
+      "name": "Chonker Cat",
+      "speed": 83,
+      "health": 1000,       
+      "attack": 12,
+      "player": false,
+      "errate": 0,
+      "energyInside": 0,
+      "critRate": 50,
+      "critDamage": 0.25,
+      "isDead": false,
+      "isEnemy1": 0,
+      "whatCharacter": 2
+    }
+  ]
+}
+
