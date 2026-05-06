@@ -53,4 +53,6 @@ The following values are safe to modify for gameplay experimentation:
 
 ### Notes
 - Only the parameters listed above are recommended to change  
-- Other fields in `config.json` are used internally and may break the game if modified  
+- Other fields in `config.json` are used internally and may break the game if modified
+- Due to file size limitations, sprite sheets are hosted externally:
+    https://drive.google.com/drive/folders/1S-VO5RaTo5IRSYlhghHBH-ZmVT1AdA3v
