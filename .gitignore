@@ -1,22 +1,38 @@
+# Visual Studio
 .vs/
-*.ipch
-*.pch
-*.obj
-*.user
 *.suo
 *.user
+*.userosscache
+*.sln.docstates
 *.VC.db
 *.VC.VC.opendb
 
+# Build files
 Debug/
 Release/
 x86/
 x64/
+build/
+out/
 
-CMakeFiles/
-CMakeCache.txt
+# Compiled objects / binaries
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+*.pdb
 
+# Precompiled headers
+*.pch
+*.ipch
+
+# Logs
 *.log
 
+# IDEs / Editors
+.vscode/
+.idea/
+
+# Assets 
 SpriteSheets/
-Star Rai.130347b6/
