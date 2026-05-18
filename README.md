@@ -56,3 +56,7 @@ The following values are safe to modify for gameplay experimentation:
 - Other fields in `config.json` are used internally and may break the game if modified
 - Due to file size limitations, sprite sheets are hosted externally:
     https://drive.google.com/drive/folders/1S-VO5RaTo5IRSYlhghHBH-ZmVT1AdA3v
+    
+  Installation:
+  - Download and extract the files
+  - Place them in the project's root directory
