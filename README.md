@@ -65,10 +65,17 @@ The following values are safe to modify for gameplay experimentation:
  
 
 ## Screenshots
-![TextureLoading](./previews/Texture%20Loading.gif)
-![Gameplay2](./previews/Gameplay2.gif)
-![SkillAttack](./previews/Skill%20Attack.gif)
-![UltimateAttack](./previews/Ultimate%20Attack.gif)
+<p align="center">
+  <img src="previews/Texture%20Loading.png" width="45%" />
+  <img src="./previews/Gameplay2.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="./previews/Skill%20Attack.png" width="45%" />
+  <img src="./previews/Ultimate%20Attack.png" width="45%" />
+</p>
+
+
 
 
 
