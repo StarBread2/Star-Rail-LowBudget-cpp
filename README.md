@@ -1,6 +1,5 @@
-# Turn-Based RPG Prototype (SFML C++)
-
 ![Gameplay](./previews/Gameplay.gif)
+# Turn-Based RPG Prototype (SFML C++)
 
 ## Description
 Turn-based RPG combat prototype inspired by Honkai: Star Rail, built using SFML in C++.
